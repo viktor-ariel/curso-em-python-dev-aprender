@@ -13,6 +13,7 @@ print(os.path.isdir('Musicas'))
 with open('celulares.txt', 'w') as arquivo:
     arquivo.write('Olá meu nome é Viktor')
 
+#update
 nomes =['viktor','ana','maria']
 with open('nomes.txt' ,'a', newline='') as arquivo:
     for nome in nomes:
