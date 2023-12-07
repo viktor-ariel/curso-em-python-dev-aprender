@@ -1,0 +1,7 @@
+Ex: "whatsapp unoficial api"
+
+ou ir no github e digitar "api"
+
+acessar recurso ou funcinalidade de site
+
+base/endpoint
